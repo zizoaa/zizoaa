@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ziad! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ziad! <br/><a href="Your github url">Programmer</a>, <a href="linkedin url">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
