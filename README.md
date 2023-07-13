@@ -1,8 +1,8 @@
-<h1>Hi, I'm Ziad! <br/><a href="Your github url">Programmer</a>, <a href="linkedin url">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ziad!  </h1>
+
+
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
-
-
 <h2> 🧐My Certifications :</h2>
  
 <a href="https://coursera.org/share/ea06315d5d9fe29e81c8a43dd0d5dfda" target="_blank"> 🍒Google Foundation of cybersecurity</a>
