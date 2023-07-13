@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Hi, I'm Ziad! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
-<!--
-**zizoaa/zizoaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🧐My Certifications :</h2>
+ 
+<a href="https://coursera.org/share/ea06315d5d9fe29e81c8a43dd0d5dfda" target="_blank"> 🍒Google Foundation of cybersecurity</a>
+
+<h2> 🤳 Connect with me:</h2>
+
+ [<img align="left" alt="ZiadAyman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ZiadAyman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ 
+ <a href="https://api.whatsapp.com/send?phone=01272624687" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a href="https://www.facebook.com/ziad.ayman.71" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+ 
+[whatsapp]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/ziad.ayman.71/
+[linkedin]: https://www.linkedin.com/in/ziad-ayman-6a5298248/
+
+ 
+ 
+
+ 
