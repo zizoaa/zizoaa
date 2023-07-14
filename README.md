@@ -6,6 +6,7 @@
 <h2> 🧐My Certifications :</h2>
  
 <a href="https://coursera.org/share/ea06315d5d9fe29e81c8a43dd0d5dfda" target="_blank"> 🍒Google Foundation of cybersecurity</a>
+<p><a href="https://coursera.org/share/2f7a6199c0e3601ca07e8b5a9ac8074e" target="_blank"> 🍒Google Play It Safe</a></p>
 
 <h2> 🤳 Connect with me:</h2>
 
