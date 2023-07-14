@@ -1,6 +1,7 @@
 <h1>Hi, I'm Ziad!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+<p><a href="https://github.com/zizoaa/Security_Audit_for_Botium_Toys" target="_blank">⛑️Security Audit for Botium Toys</a></p>
 <h2>🧐 My Certifications:</h2>
 
 <a href="https://coursera.org/share/ea06315d5d9fe29e81c8a43dd0d5dfda" target="_blank">🍒 Google Foundation of Cybersecurity</a>
