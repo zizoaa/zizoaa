@@ -8,6 +8,15 @@
 
 <h2>🤳 Connect with me:</h2>
 
+
+<a href="https://www.linkedin.com/in/ziad-ayman-6a5298248/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/ziad.ayman.71/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 <a href="https://api.whatsapp.com/send?phone=201272624687" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
@@ -15,9 +24,3 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/ziad-ayman-6a5298248/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ziad.ayman.71/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
