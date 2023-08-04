@@ -7,6 +7,7 @@
 <a href="https://coursera.org/share/ea06315d5d9fe29e81c8a43dd0d5dfda" target="_blank">🍒 Google Foundation of Cybersecurity</a>
 <p><a href="https://coursera.org/share/2f7a6199c0e3601ca07e8b5a9ac8074e" target="_blank">🍒 Google Play It Safe: Manage Security Risks</a></p>
 <p><a href="https://coursera.org/share/9695d628566b288e1175b3c9ae17b7fe" target="_blank">🍒 Google Connect and protect: Networks and Network Security </a></p>
+<p><a href="https://coursera.org/share/1602636b73ea5ebe7a33f9b9d360f7be">🍒 Google Tools of the Trade: Linux and SQL </a></p>
 
 <h2>🤳 Connect with me:</h2>
 
